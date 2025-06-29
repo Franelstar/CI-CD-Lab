@@ -1,4 +1,4 @@
-![CI](https://github.com/Franelstar/CI-CD-Lab/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/Franelstar/CI-CD-Lab/actions/workflows/python-app.yml/badge.svg)
 
 ## Continuous Integration
 
