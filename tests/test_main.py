@@ -1,5 +1,5 @@
 from click.testing import CliRunner
-from main import cli
+from cli.main import cli
 
 
 def test_add_cmd():
