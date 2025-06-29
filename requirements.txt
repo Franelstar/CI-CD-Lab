@@ -1,0 +1,10 @@
+autoflake==2.3.1
+-e git+https://github.com/Franelstar/CI-CD-Lab@d1258d6ff2bdff425a8310af7320da4dcb64a8da#egg=cli_calculator
+click==8.1.3
+coverage==7.9.1
+iniconfig==2.1.0
+packaging==25.0
+pluggy==1.6.0
+pyflakes==3.4.0
+pytest==8.2.1
+pytest-cov==6.2.1
